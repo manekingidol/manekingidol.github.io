@@ -52,6 +52,18 @@ body {
     margin: 27px auto;
 }
 
+.section-heading {
+    color: var(--accentColor);
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 1.25;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
 .link {
     position: relative;
     background-color: transparent;

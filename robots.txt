@@ -1,1 +1,3 @@
-sitemap: https://a424679.sitemaphosting7.com/4520509/sitemap_4520509.xml
+User-agent: *
+Allow: /
+Sitemap: https://manekingidol.github.io/sitemap.xml
